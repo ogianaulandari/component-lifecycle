@@ -1,4 +1,3 @@
-// src/components/Child.jsx
 import { useState, useEffect } from 'react';
 import { fetchPosts, addPost } from '../api/api';
 
